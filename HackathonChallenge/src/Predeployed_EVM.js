@@ -26,13 +26,7 @@ import polkaBTC_icon from "./icons/crypto/polkabtc.png";
 import pha_icon from "./icons/crypto/pha.png";
 import plm_icon from "./icons/crypto/plm.png";
 
-
-
-
-
-
 let TokenBindings = {}, LP_TokenBindings = {};   //This will hold an object with all ERC20 token smart contracts
-
 
 let customerAccount ;
 let customerSubstrateAccount;
