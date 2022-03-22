@@ -43,7 +43,7 @@ Here is a list of demo accounts the user can import to experience the Dapp
 6. <p>REACT_APP_seed_Jenny               = 'section replace butter century shrug lab raw pulp drip duty magic drift'</p>
    <p>REACT_APP_substrateAddress_Jenny   = 5SzoyC8ADM7geLiaVAS4NFMscwuvHorcasBj5NjHKheXoW8a</p>
 
-<p>Polkadot Extension Wallet password    = ntt54ntt54</p>
+
 <p>Hellen and Gillian accounts have open loans in DOT, XBTC</p>
 
 
